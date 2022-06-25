@@ -25,7 +25,7 @@ LAB 2 ITECH
 
 Получены товары отсутствующие на складе:
 
-![img.png](demonstration/prev_zero.png)
+![img.png](demonstration/items_zero.png)
 
 Нажимаем на кнопку 'get_prev_price', чтобы получить товары в заданом диапазоне из последнего сделаного запроса:
 
@@ -33,7 +33,7 @@ LAB 2 ITECH
 
 Получаем сообщение, так как запрос на выборку товаров в ценовом диапазоне ранее не проводился:
 
-![img.png](demonstration/press_prev_price_1_rez.png)
+![img.png](demonstration/press_prev_prise_1_rez.png)
 
 Вводим ценовой диапазон(500 - 5000) и нажимаем на кнопку 'get_items':
 
