@@ -27,6 +27,15 @@ LAB 2 ITECH
 
 ![img.png](demonstration/items_zero.png)
 
+Нажимаем на кнопку 'get_prev_zero', чтобы получить товары отсутствующие на складе из последнего сделаного запроса:
+
+![img.png](demonstration/press_prev_zero.png)
+
+Получены товары отсутствующие на складе из последнего сделаного запроса:
+
+![img.png](demonstration/prev_zero.png)
+
+
 Нажимаем на кнопку 'get_prev_price', чтобы получить товары в заданом диапазоне из последнего сделаного запроса:
 
 ![img.png](demonstration/press_prev_price_1.png)
